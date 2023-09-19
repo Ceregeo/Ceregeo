@@ -42,10 +42,10 @@ Ing. Esp. Mg. Pablo Fontanini
 Centro Regional de Geomática  
 Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos  
 
-Dra. Sabrina A. Rodríguez
-Laboratorio de biología
-Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos
-Universidad Autónoma de Entre Ríos
+Dra. Sabrina A. Rodríguez  
+Laboratorio de biología  
+Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos  
+Universidad Autónoma de Entre Ríos  
 Sabrinaforestalrodriguez@gmail.com
 
 Lic. Mg. Francisco Viva Mayer 
