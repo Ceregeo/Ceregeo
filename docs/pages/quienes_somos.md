@@ -42,13 +42,19 @@ Ing. Esp. Mg. Pablo Fontanini
 Centro Regional de Geomática  
 Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos  
 
-## Becarios de Investigación:
+Dra. Sabrina A. Rodríguez
+Laboratorio de biología
+Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos
+Universidad Autónoma de Entre Ríos
+Sabrinaforestalrodriguez@gmail.com
 
 Lic. Mg. Francisco Viva Mayer 
 Centro Regional de Geomática  
 Facultad de Ciencia y Tecnología – Subsede Oro Verde y Diamante  
 Universidad Autónoma de Entre Ríos  
 fmvm483@gmail.com
+
+## Becarios de Investigación:
 
 Lic. Biol. Mg. Virginia A. Piani (Becario CONICET)  
 Centro Regional de Geomática  
