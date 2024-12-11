@@ -2,7 +2,7 @@
 
 ## Revistas Científicas:
 ## **``` Año 2024 ```**  
-* Santoni, L., Chaia, E. y Gobbi, M. 2024. Plantación con Ochetophilla trinervis (Rhamnaceae) en riberas del noroeste patagónico invadidas por Salix fragilis (Salicaceae). Bol. Soc. Argent. Bot. 59(4): 1-17.
+* Santoni, L., Chaia, E. y Gobbi, M. 2024. Plantación con Ochetophilla trinervis (Rhamnaceae) en riberas del noroeste patagónico invadidas por Salix fragilis (Salicaceae). Bol. Soc. Argent. Bot. 59(4): 1-17. https://doi.org/10.31055/1851.2372.v59.n4.45128
 
 ## **``` Año 2022 ```**  
 
