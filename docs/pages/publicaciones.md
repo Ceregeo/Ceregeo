@@ -24,7 +24,7 @@
 
 * Castro-Díaz, R.; Natenzon, C. 2020. Transformaciones territoriales y sus implicancias actuales en la prestación de servicios ambientales hídricos de la cuenca de la Laguna Fúquene (Colombia). Punto Sur 2 (1): 75-95.
 
-* Cian, U.; Frezzia, S.; Protti, L.; Quignard, I.; Zamboni, P.; Sione, W. 2020. Utilización de Geoinformación en la Cuenca del Arroyo Ensenada (Entre Ríos, Argentina): aportes para la gestión territorial.  GeoSIG 12 (17): 1-19.
+* Cian, U.; Frezzia, S.; Protti, L.; Quignard, I.; Zamboni, P.; Sione, W. 2020. Utilización de Geoinformación en la Cuenca del Arroyo Ensenada (Entre Ríos, Argentina): aportes para la gestión territorial.  GeoSIG 12 (17): 1-19. https://www.researchgate.net/publication/363632141_UTILIZACION_DE_GEOINFORMACION_EN_LA_CUENCA_DEL_ARROYO_ENSENADA_ENTRE_RIOS_ARGENTINA_APORTES_PARA_LA_GESTION_TERRITORIAL
 
 * Santoni, L.; Zamboni, P.; Tentor, F.; Sione, W. 2020. Cartografía de bosque nativo en la cuenca del Arroyo Paracao (Oro Verde, Entre Ríos, Argentina): aportes para el Ordenamiento Ambiental Territorial. GeoSIG 13 (21):1-13.
 
