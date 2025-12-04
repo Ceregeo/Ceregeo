@@ -3,7 +3,7 @@
 
 Dra. Pamela Zamboni (Suplente) <br>
 Centro Regional de Geomática  
-Facultad de Ciencia y Tecnología <br>
+Facultad de Ciencia y Tecnología - Universidad Autónoma de Entre Ríos   <br>
 zamboni.pamela@uader.edu.ar
 
 ## Investigadores:
@@ -39,7 +39,7 @@ Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos
 Universidad Autónoma de Entre Ríos  
 Sabrinaforestalrodriguez@gmail.com
 
-Lic. Mg. Francisco Viva Mayer 
+Lic. Mg. Francisco Viva Mayer <br>
 Centro Regional de Geomática  
 Facultad de Ciencia y Tecnología – Subsede Oro Verde y Diamante  
 Universidad Autónoma de Entre Ríos  
