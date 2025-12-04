@@ -1,9 +1,9 @@
 # Integrantes
 ## Director:
 
-Dra. Pamela Zamboni (Suplente) 
+Dra. Pamela Zamboni (Suplente) <br>
 Centro Regional de Geomática  
-Facultad de Ciencia y Tecnología 
+Facultad de Ciencia y Tecnología <br>
 zamboni.pamela@uader.edu.ar
 
 ## Investigadores:
@@ -50,8 +50,8 @@ Centro Regional de Geomática
 Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos  
 galarza.rocio@uader.edu.ar
 
-Anl. de Sist.Matías Martínez 
-Centro Regional de Geomática Facultad de Ciencia y Tecnología - Universidad Autónoma de Entre Ríos 
+Anl. de Sist. Matías Martínez <br> 
+Centro Regional de Geomática <br> Facultad de Ciencia y Tecnología - Universidad Autónoma de Entre Ríos <br>
 matiasgonzalez.652@gmail.com
 
 ## Becarios de Investigación:
