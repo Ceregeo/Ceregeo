@@ -1,8 +1,26 @@
 # Publicaciones
 
 ## Revistas Científicas:
+
+## **``` Año 2025 ```**  
+
+* Evequoz González Garmendia A., Piani V.A., Maccarrone M.J. & Zamboni L.P. 2025. Geoinformática y cartografía del carbono en la biomasa aérea para Entre Ríos. @rchivos de Ciencia y Tecnología Nº 7, FCyT-UADER, Oro Verde. ISSN: 2953-4852
+
+* Sanchez L.C., Rodríguez E.E., Piani V.A., Aceñolaza P.G. & Manzano A.S. 2025. Assessing the impact of exotic Salicaceae plantations on amphibian diversity of the Paraná River Delta. Biodiversity and Conservation, 1-20. https://doi.org/10.1007/s10531-025-03118-6
+
 ## **``` Año 2024 ```**  
+
 * Santoni, L., Chaia, E. y Gobbi, M. 2024. Plantación con Ochetophilla trinervis (Rhamnaceae) en riberas del noroeste patagónico invadidas por Salix fragilis (Salicaceae). Bol. Soc. Argent. Bot. 59(4): 1-17. https://doi.org/10.31055/1851.2372.v59.n4.45128
+
+- Morante N.M., Piani V., Pineda Sanchez A., Ruiz Moreno F., Sallenave J., Vergara Guarascio V., Zamboni P., Quignard I., Baeza N., Sione W. 2024. Aplicaciones de las Tecnologías de Información Geográfica para la caracterización y propuesta de zonificación de la reserva de usos múltiples “Tierra Chaná”. Geografía y Sistemas de Información Geográfica 16(30).
+
+## **``` Año 2023 ```**
+
+* Piani V, Zamboni LP, Viva Mayer F, Sione WF, Aceñolaza PG. 2023. Long term NDVI patterns of Pinus spp., Salix spp. and Populus spp. plantation forest in the Lower Delta of the Paraná River (Argentina). Bosque 44(2). https://doi.org/10.4067/S0717-92002023000200415
+
+* Piani V, Zamboni LP, Sione W., Sione S, Aceñolaza PG. 2023. Reserva de carbono en sistemas productivos forestales del sur mesopotámico. Boletín de la Sociedad Argentina de Botánica. 58 (Suplemento). ISSN 0373-580X
+
+* Piani V, Rodríguez EE, Aceñolaza PG. 2023. Diversidad florística y caracterización fenológica a partir de patrones espectrales en bosques nativos del sistema deltaico frontal de la Cuenca del Plata. Boletín de la Sociedad Argentina de Botánica. 58 (Suplemento). ISSN 0373-580X
 
 ## **``` Año 2022 ```**  
 
@@ -11,6 +29,8 @@
 * Metternicht, G.; del Valle, H.; Tentor, F.; Sione, W.; Zamboni, P.; Aceñolaza, P. 2022. Quality assessment of open access Digital Terrain Models to estimate topographic attributes relevant to soil vertic properties prediction. A case study of Entre Rios province (Argentina). EGU22-3323  https://doi.org/10.5194/egusphere-egu22-3323.
 
 * Gómez, A. A.; López, M. S.; Müller, G. V.; López, L. R. Sione, W. F.; Giovanini, L. 2022. Modeling of leptospirosis outbreaks in relation to hydroclimatic variables in the northeast of Argentina. Cell Press Journal. VOLUME 8, ISSUE 6, E09758, JUNE 01, 2022 https://doi.org/10.1016/j.heliyon.2022.e09758
+
+* Piani V, Boladeras F, Aceñolaza P. 2022. Aplicación de Tecnologías de Información Geográfica para la Gestión de Riesgos Ambientales en Forestaciones del Delta del Río Paraná. Scientia interfluvis 13 (1): 31-51. ISSN 1853-4422 (printed) ISSN 1853-4430 (on line).
 
 ## **``` Año 2021 ```**  
 
@@ -159,6 +179,12 @@ Castro Díaz, R.; Zamboni, L.P.; Sione, W.; Aceñolaza, P.G. 2018. Elementos ter
 
 * Aceñolaza P. G., Sione, W.F.; Kalesnik, F.; Serafini M. S. 2005. Determinación de unidades homogéneas de vegetación en el Parque Nacional Pre-Delta (Argentina). Temas de la Biodiversidad del Litoral Fluvial Argentino II. Insugeo 14: 81-90.
 
+## Tesis:
+
+## **``` Año 2025 ```**
+
+* Evequoz González Garmendia, A. 2025. Mapa de carbono almacenado en la biomasa aérea en la provincia de Entre Ríos a partir del procesamiento de datos en la nube. Tesis de grado en Licenciatura en Biología. Universidad Autónoma de Entre Ríos. Facultad de Ciencia y Tecnología. https://rd.fcyt.uader.edu.ar/handle/123456789/86
+
 
 ## Libros y Capítulos de libros:
 
@@ -246,6 +272,30 @@ Blanco, P.D.; Hardtke, L.A.; Rostagno, C.M.; del Valle, H.F.; Metternicht, G.I. 
 
 
 ## Publicaciones en volúmenes especiales/actas de congresos:
+
+## Trabajos en eventos de Ciencia y Tecnología:
+
+## **``` Año 2025 ```**
+
+* Evequoz, A., Santoni, L., Zamboni, P., Rubio, C., Rubio, C., Sione, S., Sirimarco, X., Barral, P., & Aceñolaza, P. (2025). Acercando la información al usuario: la experiencia del Proyecto Impactar 155. En Libro de Actas de las XIX Jornadas IDERA (pp. 568–570). https://www.idera.gob.ar/images/stories/downloads/jornadas/2025/Libro_Ponencias_XIX_Jornadas_IDERA_2025.pdf
+
+* Andrian M.B. et al. 2025. Evaluación preliminar de áreas con potencial de restauración ecológica en Paraná y alrededores. IV Encuentro Nacional de Restauración Ecológica Argentina.
+
+* Rodríguez S.A. et al. 2025. Fenología reproductiva y ecofisiología de semillas en especies arbóreas. IV Encuentro Nacional de Restauración Ecológica Argentina.
+
+* Rodríguez S.A., Piani V., Aceñolaza P.G. 2025. Percepción sobre la mortalidad de árboles en bosques nativos.
+
+* Zamboni L.P., Piani V. 2025. CeReGeo. Geotecnologías para el territorio entrerriano. CONER TECH.
+
+* Piani V., Boladeras F.R. 2025. Sinergias en geomática: incendios y cambio climático.
+
+* Rodríguez S.A. et al. 2025. Fenología reproductiva en especies del Espinal. UNER.
+
+## **``` Año 2024 ```**
+
+* Waigadt M., Masoero H.O., Piani V. 2024. Catálogo interactivo de especies arbóreas. Jornada CyT UADER.
+
+* Evequoz González Garmendia A. et al. 2024. Geotecnologías y turismo sostenible. Congreso Universal de Turismo.
 
 ## **``` Año 2021 ```**  
 
